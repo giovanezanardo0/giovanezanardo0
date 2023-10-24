@@ -1,5 +1,3 @@
-
-
 ### <div align="center">Olá! Sou o Giovane Aparecido Zanardo 👨‍💻 futuro DevOps 🚀</div>  
 
 - 🔭 Atualmente trabalhando como HelpsDesk em um hospital 🏥
@@ -9,24 +7,18 @@
 
 
 - ⚡ Entusiasta em Tecnologia
-  
 
 <br/>  
-
 
 ## Minhas Habilidades
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
-<div align="center">  
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  -->
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> -->
-<!--<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" height="50" /> -->
+<div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /> 
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="PhotoShop" height="50" />
-
-          
+       
 </div></td><td valign="top" width="33%">
 
 ### Backend  
@@ -36,8 +28,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
  
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="50" /> 
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> --> 
-
 </div></td><td valign="top" width="33%">
 
 ### DevOps  
