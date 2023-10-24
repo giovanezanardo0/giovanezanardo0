@@ -1,4 +1,6 @@
-### <div align="center">Olá! Sou o Giovane Aparecido Zanardo 👨‍💻 futuro DevOps 🚀</div>  
+### <div align="center">Olá! Sou o Giovane Aparecido Zanardo 👨‍💻 futuro Desenvolvedor 🚀</div>  
+
+- 👨‍🎓 Tecnologo em Segurança da Informação
 
 - 🔭 Atualmente trabalhando como HelpsDesk em um hospital 🏥
   
