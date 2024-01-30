@@ -2,13 +2,13 @@
 
 - 👨‍🎓 Tecnologo em Segurança da Informação
 
-- 🔭 Atualmente trabalhando como HelpsDesk em um hospital 🏥
-  
+- 🔭 Atualmente trabalhando como tecnico em Infraestrutura 🏥
 
-- 🌱 Estudando lógica de programação com JavaScript e em sequência Python 
+- 🌱 Buscando me especializar inicialmente com Front End utilizando HTML, CSS e JavaScript
 
+- 🌱 Trilhando caminho de estudos em paralelo para DevOps
 
-- ⚡ Entusiasta em Tecnologia
+- ⚡ Entusiasta em Tecnologia e games
 
 <br/>  
 
@@ -17,7 +17,10 @@
 
 ### Frontend  
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" height="50" />
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" height="50" />
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="FIGMA" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /> 
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="PhotoShop" height="50" />
        
@@ -26,8 +29,7 @@
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
- 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />   
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="50" /> 
 </div></td><td valign="top" width="33%">
 
@@ -37,7 +39,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" alt="Putty" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" height="50" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="50" />      
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="50" />
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" height="50" />
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="50" />
+   
 </div></td></tr></table>  
 
 <br/>  
