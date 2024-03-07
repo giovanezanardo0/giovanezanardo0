@@ -4,9 +4,7 @@
 
 - 🔭 Atualmente trabalhando como tecnico em Infraestrutura 🏥
 
-- 🌱 Buscando me especializar inicialmente com Front End utilizando HTML, CSS e JavaScript
-
-- 🌱 Trilhando caminho de estudos em paralelo para DevOps
+- 🌱 Buscando me especializar para me tornar um Desenvolvedor Back End
 
 - ⚡ Entusiasta em Tecnologia e games
 
