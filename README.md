@@ -2,9 +2,9 @@
 
 - 👨‍🎓 Tecnologo em Segurança da Informação
 
-- 🔭 Atualmente trabalhando como tecnico em Infraestrutura 🏥
+- 🔭 Atualmente trabalhando como Desenvolvedor Back End
 
-- 🌱 Buscando me especializar para me tornar um Desenvolvedor Back End
+- 🌱 Buscando me especializar e evoluir cada vez mais
 
 - ⚡ Entusiasta em Tecnologia e games
 
