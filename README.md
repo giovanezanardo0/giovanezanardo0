@@ -1,4 +1,4 @@
-### <div align="center">Olá! Sou o Giovane Aparecido Zanardo 👨‍💻 futuro Desenvolvedor 🚀</div>  
+### <div align="center">Olá! Sou o Giovane Aparecido Zanardo 👨‍💻 </div>  
 
 - 👨‍🎓 Tecnologo em Segurança da Informação
 
